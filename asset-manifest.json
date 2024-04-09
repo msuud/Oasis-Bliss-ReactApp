@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Oasis-Bliss-ReactApp/static/css/main.b5ff118c.css",
+    "main.js": "/Oasis-Bliss-ReactApp/static/js/main.f20be2aa.js",
+    "static/media/Room2.jpg": "/Oasis-Bliss-ReactApp/static/media/Room2.21348d847a6a0f1d0fc4.jpg",
+    "static/media/VintageSuite.jpg": "/Oasis-Bliss-ReactApp/static/media/VintageSuite.b8ace50662cb53fa2ca1.jpg",
+    "static/media/Resort Night.jpg": "/Oasis-Bliss-ReactApp/static/media/Resort Night.34b172ccbd618214e5f6.jpg",
+    "static/media/Room1.jpg": "/Oasis-Bliss-ReactApp/static/media/Room1.6a4929ffacd2285454bd.jpg",
+    "index.html": "/Oasis-Bliss-ReactApp/index.html",
+    "main.b5ff118c.css.map": "/Oasis-Bliss-ReactApp/static/css/main.b5ff118c.css.map",
+    "main.f20be2aa.js.map": "/Oasis-Bliss-ReactApp/static/js/main.f20be2aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5ff118c.css",
+    "static/js/main.f20be2aa.js"
+  ]
+}
