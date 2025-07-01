@@ -4,4 +4,4 @@ You can access it here :- https://msuud.github.io/Oasis-Bliss-ReactApp/
 
 
 
-I have made this project only for practice purpose.
+I made this project for practice purpose.
